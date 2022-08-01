@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ZeeshanAhmedoff1997
-- 👀 I’m interested in React Js, Node Js and Rails.
+- 👀 I’m experienced Web Developer having experience of working with multiple startups and Enterprise solutions.
 - 🌱 I’m currently polishing my professional skills in Node Js, Nest Js, AWS
 - 💞️ I’m looking to collaborate on any project related to Full Stack developemnt
 - 📫 How to reach me. Email: zeshanahmedoff@gmail.com
