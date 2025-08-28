@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&pause=1000&color=00F5FF&center=true&vCenter=true&width=1000&lines=🚀+Senior+AI+Software+Engineer;React+•+Rails+•+Node+•+Python;Building+the+Future+with+AI+%26+Code;Full-Stack+•+Cloud+•+Microservices" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&pause=1000&color=00F5FF,FF00FF&center=true&vCenter=true&width=1000&lines=🚀+Senior+AI+Software+Engineer;React+•+Next.js+•+Typescript+•+Rails+•+Node+•+Python;AI+•+LLM+•+MCP+•+Building+the+Future+with+Code;Full-Stack+•+Cloud+•+Microservices" alt="Typing SVG" />
 </p>
 
 <p align="center">
