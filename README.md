@@ -52,7 +52,13 @@ timeline
 
 ## ⚡ Tech Stack
 
-### 🎨 Frontend
+<div align="center">
+  <h3 style="font-family: 'Orbitron', monospace; font-size: 1.5em; background: linear-gradient(45deg, #00f5ff, #ff00ff); -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text; margin: 20px 0;">
+    <span style="border-bottom: 2px solid #00f5ff; padding: 0 15px;">─────</span>
+    🎨 FRONTEND
+    <span style="border-bottom: 2px solid #ff00ff; padding: 0 15px;">─────</span>
+  </h3>
+</div>
 
 <div style="display: flex; flex-wrap: wrap; gap: 8px; justify-content: flex-start;">
 
@@ -69,7 +75,13 @@ timeline
 
 </div>
 
-### 🔧 Backend & APIs
+<div align="center">
+  <h3 style="font-family: 'Orbitron', monospace; font-size: 1.5em; background: linear-gradient(45deg, #00f5ff, #ff00ff); -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text; margin: 20px 0;">
+    <span style="border-bottom: 2px solid #00f5ff; padding: 0 15px;">─────</span>
+    🔧 BACKEND & APIs
+    <span style="border-bottom: 2px solid #ff00ff; padding: 0 15px;">─────</span>
+  </h3>
+</div>
 
 <div style="display: flex; flex-wrap: wrap; gap: 8px; justify-content: flex-start;">
 
@@ -85,7 +97,13 @@ timeline
 
 </div>
 
-### 🤖 AI & Machine Learning
+<div align="center">
+  <h3 style="font-family: 'Orbitron', monospace; font-size: 1.5em; background: linear-gradient(45deg, #00f5ff, #ff00ff); -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text; margin: 20px 0;">
+    <span style="border-bottom: 2px solid #00f5ff; padding: 0 15px;">─────</span>
+    🤖 AI & MACHINE LEARNING
+    <span style="border-bottom: 2px solid #ff00ff; padding: 0 15px;">─────</span>
+  </h3>
+</div>
 
 <div style="display: flex; flex-wrap: wrap; gap: 8px; justify-content: flex-start;">
 
@@ -99,7 +117,13 @@ timeline
 
 </div>
 
-### ☁️ Cloud & Infrastructure
+<div align="center">
+  <h3 style="font-family: 'Orbitron', monospace; font-size: 1.5em; background: linear-gradient(45deg, #00f5ff, #ff00ff); -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text; margin: 20px 0;">
+    <span style="border-bottom: 2px solid #00f5ff; padding: 0 15px;">─────</span>
+    ☁️ CLOUD & INFRASTRUCTURE
+    <span style="border-bottom: 2px solid #ff00ff; padding: 0 15px;">─────</span>
+  </h3>
+</div>
 
 <div style="display: flex; flex-wrap: wrap; gap: 8px; justify-content: flex-start;">
 
@@ -115,7 +139,13 @@ timeline
 
 </div>
 
-### 🗄️ Databases & Storage
+<div align="center">
+  <h3 style="font-family: 'Orbitron', monospace; font-size: 1.5em; background: linear-gradient(45deg, #00f5ff, #ff00ff); -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text; margin: 20px 0;">
+    <span style="border-bottom: 2px solid #00f5ff; padding: 0 15px;">─────</span>
+    🗄️ DATABASES & STORAGE
+    <span style="border-bottom: 2px solid #ff00ff; padding: 0 15px;">─────</span>
+  </h3>
+</div>
 
 <div style="display: flex; flex-wrap: wrap; gap: 8px; justify-content: flex-start;">
 
@@ -127,7 +157,13 @@ timeline
 
 </div>
 
-### 🧪 Testing & Quality
+<div align="center">
+  <h3 style="font-family: 'Orbitron', monospace; font-size: 1.5em; background: linear-gradient(45deg, #00f5ff, #ff00ff); -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text; margin: 20px 0;">
+    <span style="border-bottom: 2px solid #00f5ff; padding: 0 15px;">─────</span>
+    🧪 TESTING & QUALITY
+    <span style="border-bottom: 2px solid #ff00ff; padding: 0 15px;">─────</span>
+  </h3>
+</div>
 
 <div style="display: flex; flex-wrap: wrap; gap: 8px; justify-content: flex-start;">
 
@@ -140,7 +176,13 @@ timeline
 
 </div>
 
-### 🔄 DevOps & CI/CD
+<div align="center">
+  <h3 style="font-family: 'Orbitron', monospace; font-size: 1.5em; background: linear-gradient(45deg, #00f5ff, #ff00ff); -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text; margin: 20px 0;">
+    <span style="border-bottom: 2px solid #00f5ff; padding: 0 15px;">─────</span>
+    🔄 DEVOPS & CI/CD
+    <span style="border-bottom: 2px solid #ff00ff; padding: 0 15px;">─────</span>
+  </h3>
+</div>
 
 <div style="display: flex; flex-wrap: wrap; gap: 8px; justify-content: flex-start;">
 
@@ -152,7 +194,13 @@ timeline
 
 </div>
 
-### 📊 Monitoring & Analytics
+<div align="center">
+  <h3 style="font-family: 'Orbitron', monospace; font-size: 1.5em; background: linear-gradient(45deg, #00f5ff, #ff00ff); -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text; margin: 20px 0;">
+    <span style="border-bottom: 2px solid #00f5ff; padding: 0 15px;">─────</span>
+    📊 MONITORING & ANALYTICS
+    <span style="border-bottom: 2px solid #ff00ff; padding: 0 15px;">─────</span>
+  </h3>
+</div>
 
 <div style="display: flex; flex-wrap: wrap; gap: 8px; justify-content: flex-start;">
 
@@ -164,7 +212,13 @@ timeline
 
 </div>
 
-### 🛠️ Developer Tools
+<div align="center">
+  <h3 style="font-family: 'Orbitron', monospace; font-size: 1.5em; background: linear-gradient(45deg, #00f5ff, #ff00ff); -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text; margin: 20px 0;">
+    <span style="border-bottom: 2px solid #00f5ff; padding: 0 15px;">─────</span>
+    🛠️ DEVELOPER TOOLS
+    <span style="border-bottom: 2px solid #ff00ff; padding: 0 15px;">─────</span>
+  </h3>
+</div>
 
 <div style="display: flex; flex-wrap: wrap; gap: 8px; justify-content: flex-start;">
 
