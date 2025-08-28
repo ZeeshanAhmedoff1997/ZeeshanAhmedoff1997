@@ -53,11 +53,11 @@ timeline
 ## ⚡ Tech Stack
 
 <div align="center">
-  <h3 style="font-family: 'Orbitron', monospace; font-size: 1.5em; background: linear-gradient(45deg, #00f5ff, #ff00ff); -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text; margin: 20px 0;">
-    <span style="border-bottom: 2px solid #00f5ff; padding: 0 15px;">─────</span>
-    🎨 FRONTEND
-    <span style="border-bottom: 2px solid #ff00ff; padding: 0 15px;">─────</span>
-  </h3>
+  <h4 style="font-family: 'Orbitron', monospace; font-size: 1.1em; background: linear-gradient(45deg, #00f5ff, #ff00ff); -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text; margin: 15px 0; font-weight: 600;">
+    <span style="color: #00f5ff;">─────────</span>
+    FRONTEND
+    <span style="color: #ff00ff;">─────────</span>
+  </h4>
 </div>
 
 <div style="display: flex; flex-wrap: wrap; gap: 8px; justify-content: flex-start;">
@@ -76,11 +76,11 @@ timeline
 </div>
 
 <div align="center">
-  <h3 style="font-family: 'Orbitron', monospace; font-size: 1.5em; background: linear-gradient(45deg, #00f5ff, #ff00ff); -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text; margin: 20px 0;">
-    <span style="border-bottom: 2px solid #00f5ff; padding: 0 15px;">─────</span>
-    🔧 BACKEND & APIs
-    <span style="border-bottom: 2px solid #ff00ff; padding: 0 15px;">─────</span>
-  </h3>
+  <h4 style="font-family: 'Orbitron', monospace; font-size: 1.1em; background: linear-gradient(45deg, #00f5ff, #ff00ff); -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text; margin: 15px 0; font-weight: 600;">
+    <span style="color: #00f5ff;">─────────</span>
+    BACKEND & APIs
+    <span style="color: #ff00ff;">─────────</span>
+  </h4>
 </div>
 
 <div style="display: flex; flex-wrap: wrap; gap: 8px; justify-content: flex-start;">
@@ -98,11 +98,11 @@ timeline
 </div>
 
 <div align="center">
-  <h3 style="font-family: 'Orbitron', monospace; font-size: 1.5em; background: linear-gradient(45deg, #00f5ff, #ff00ff); -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text; margin: 20px 0;">
-    <span style="border-bottom: 2px solid #00f5ff; padding: 0 15px;">─────</span>
-    🤖 AI & MACHINE LEARNING
-    <span style="border-bottom: 2px solid #ff00ff; padding: 0 15px;">─────</span>
-  </h3>
+  <h4 style="font-family: 'Orbitron', monospace; font-size: 1.1em; background: linear-gradient(45deg, #00f5ff, #ff00ff); -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text; margin: 15px 0; font-weight: 600;">
+    <span style="color: #00f5ff;">─────────</span>
+    AI & MACHINE LEARNING
+    <span style="color: #ff00ff;">─────────</span>
+  </h4>
 </div>
 
 <div style="display: flex; flex-wrap: wrap; gap: 8px; justify-content: flex-start;">
@@ -118,11 +118,11 @@ timeline
 </div>
 
 <div align="center">
-  <h3 style="font-family: 'Orbitron', monospace; font-size: 1.5em; background: linear-gradient(45deg, #00f5ff, #ff00ff); -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text; margin: 20px 0;">
-    <span style="border-bottom: 2px solid #00f5ff; padding: 0 15px;">─────</span>
-    ☁️ CLOUD & INFRASTRUCTURE
-    <span style="border-bottom: 2px solid #ff00ff; padding: 0 15px;">─────</span>
-  </h3>
+  <h4 style="font-family: 'Orbitron', monospace; font-size: 1.1em; background: linear-gradient(45deg, #00f5ff, #ff00ff); -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text; margin: 15px 0; font-weight: 600;">
+    <span style="color: #00f5ff;">─────────</span>
+    CLOUD & INFRASTRUCTURE
+    <span style="color: #ff00ff;">─────────</span>
+  </h4>
 </div>
 
 <div style="display: flex; flex-wrap: wrap; gap: 8px; justify-content: flex-start;">
@@ -140,11 +140,11 @@ timeline
 </div>
 
 <div align="center">
-  <h3 style="font-family: 'Orbitron', monospace; font-size: 1.5em; background: linear-gradient(45deg, #00f5ff, #ff00ff); -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text; margin: 20px 0;">
-    <span style="border-bottom: 2px solid #00f5ff; padding: 0 15px;">─────</span>
-    🗄️ DATABASES & STORAGE
-    <span style="border-bottom: 2px solid #ff00ff; padding: 0 15px;">─────</span>
-  </h3>
+  <h4 style="font-family: 'Orbitron', monospace; font-size: 1.1em; background: linear-gradient(45deg, #00f5ff, #ff00ff); -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text; margin: 15px 0; font-weight: 600;">
+    <span style="color: #00f5ff;">─────────</span>
+    DATABASES & STORAGE
+    <span style="color: #ff00ff;">─────────</span>
+  </h4>
 </div>
 
 <div style="display: flex; flex-wrap: wrap; gap: 8px; justify-content: flex-start;">
@@ -158,11 +158,11 @@ timeline
 </div>
 
 <div align="center">
-  <h3 style="font-family: 'Orbitron', monospace; font-size: 1.5em; background: linear-gradient(45deg, #00f5ff, #ff00ff); -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text; margin: 20px 0;">
-    <span style="border-bottom: 2px solid #00f5ff; padding: 0 15px;">─────</span>
-    🧪 TESTING & QUALITY
-    <span style="border-bottom: 2px solid #ff00ff; padding: 0 15px;">─────</span>
-  </h3>
+  <h4 style="font-family: 'Orbitron', monospace; font-size: 1.1em; background: linear-gradient(45deg, #00f5ff, #ff00ff); -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text; margin: 15px 0; font-weight: 600;">
+    <span style="color: #00f5ff;">─────────</span>
+    TESTING & QUALITY
+    <span style="color: #ff00ff;">─────────</span>
+  </h4>
 </div>
 
 <div style="display: flex; flex-wrap: wrap; gap: 8px; justify-content: flex-start;">
@@ -177,11 +177,11 @@ timeline
 </div>
 
 <div align="center">
-  <h3 style="font-family: 'Orbitron', monospace; font-size: 1.5em; background: linear-gradient(45deg, #00f5ff, #ff00ff); -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text; margin: 20px 0;">
-    <span style="border-bottom: 2px solid #00f5ff; padding: 0 15px;">─────</span>
-    🔄 DEVOPS & CI/CD
-    <span style="border-bottom: 2px solid #ff00ff; padding: 0 15px;">─────</span>
-  </h3>
+  <h4 style="font-family: 'Orbitron', monospace; font-size: 1.1em; background: linear-gradient(45deg, #00f5ff, #ff00ff); -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text; margin: 15px 0; font-weight: 600;">
+    <span style="color: #00f5ff;">─────────</span>
+    DEVOPS & CI/CD
+    <span style="color: #ff00ff;">─────────</span>
+  </h4>
 </div>
 
 <div style="display: flex; flex-wrap: wrap; gap: 8px; justify-content: flex-start;">
@@ -195,11 +195,11 @@ timeline
 </div>
 
 <div align="center">
-  <h3 style="font-family: 'Orbitron', monospace; font-size: 1.5em; background: linear-gradient(45deg, #00f5ff, #ff00ff); -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text; margin: 20px 0;">
-    <span style="border-bottom: 2px solid #00f5ff; padding: 0 15px;">─────</span>
-    📊 MONITORING & ANALYTICS
-    <span style="border-bottom: 2px solid #ff00ff; padding: 0 15px;">─────</span>
-  </h3>
+  <h4 style="font-family: 'Orbitron', monospace; font-size: 1.1em; background: linear-gradient(45deg, #00f5ff, #ff00ff); -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text; margin: 15px 0; font-weight: 600;">
+    <span style="color: #00f5ff;">─────────</span>
+    MONITORING & ANALYTICS
+    <span style="color: #ff00ff;">─────────</span>
+  </h4>
 </div>
 
 <div style="display: flex; flex-wrap: wrap; gap: 8px; justify-content: flex-start;">
@@ -213,11 +213,11 @@ timeline
 </div>
 
 <div align="center">
-  <h3 style="font-family: 'Orbitron', monospace; font-size: 1.5em; background: linear-gradient(45deg, #00f5ff, #ff00ff); -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text; margin: 20px 0;">
-    <span style="border-bottom: 2px solid #00f5ff; padding: 0 15px;">─────</span>
-    🛠️ DEVELOPER TOOLS
-    <span style="border-bottom: 2px solid #ff00ff; padding: 0 15px;">─────</span>
-  </h3>
+  <h4 style="font-family: 'Orbitron', monospace; font-size: 1.1em; background: linear-gradient(45deg, #00f5ff, #ff00ff); -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text; margin: 15px 0; font-weight: 600;">
+    <span style="color: #00f5ff;">─────────</span>
+    DEVELOPER TOOLS
+    <span style="color: #ff00ff;">─────────</span>
+  </h4>
 </div>
 
 <div style="display: flex; flex-wrap: wrap; gap: 8px; justify-content: flex-start;">
