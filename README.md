@@ -52,13 +52,19 @@ timeline
 
 ## ⚡ Tech Stack
 
-<div align="center">
-  <h4 style="font-family: 'Orbitron', monospace; font-size: 1.1em; background: linear-gradient(45deg, #00f5ff, #ff00ff); -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text; margin: 15px 0; font-weight: 600;">
-    <span style="color: #00f5ff;">─────────</span>
-    FRONTEND
-    <span style="color: #ff00ff;">─────────</span>
-  </h4>
-</div>
+<p align="center">
+  <svg width="400" height="40" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+      <linearGradient id="gradient1" x1="0%" y1="0%" x2="100%" y2="0%">
+        <stop offset="0%" stop-color="#00f5ff" />
+        <stop offset="100%" stop-color="#ff00ff" />
+      </linearGradient>
+    </defs>
+    <text x="50%" y="25" text-anchor="middle" font-family="Orbitron, monospace" font-size="16" font-weight="600" fill="url(#gradient1)">
+      ────────── FRONTEND ──────────
+    </text>
+  </svg>
+</p>
 
 <div style="display: flex; flex-wrap: wrap; gap: 8px; justify-content: flex-start;">
 
@@ -75,13 +81,19 @@ timeline
 
 </div>
 
-<div align="center">
-  <h4 style="font-family: 'Orbitron', monospace; font-size: 1.1em; background: linear-gradient(45deg, #00f5ff, #ff00ff); -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text; margin: 15px 0; font-weight: 600;">
-    <span style="color: #00f5ff;">─────────</span>
-    BACKEND & APIs
-    <span style="color: #ff00ff;">─────────</span>
-  </h4>
-</div>
+<p align="center">
+  <svg width="400" height="40" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+      <linearGradient id="gradient2" x1="0%" y1="0%" x2="100%" y2="0%">
+        <stop offset="0%" stop-color="#00f5ff" />
+        <stop offset="100%" stop-color="#ff00ff" />
+      </linearGradient>
+    </defs>
+    <text x="50%" y="25" text-anchor="middle" font-family="Orbitron, monospace" font-size="16" font-weight="600" fill="url(#gradient2)">
+      ────────── BACKEND & APIs ──────────
+    </text>
+  </svg>
+</p>
 
 <div style="display: flex; flex-wrap: wrap; gap: 8px; justify-content: flex-start;">
 
@@ -97,13 +109,19 @@ timeline
 
 </div>
 
-<div align="center">
-  <h4 style="font-family: 'Orbitron', monospace; font-size: 1.1em; background: linear-gradient(45deg, #00f5ff, #ff00ff); -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text; margin: 15px 0; font-weight: 600;">
-    <span style="color: #00f5ff;">─────────</span>
-    AI & MACHINE LEARNING
-    <span style="color: #ff00ff;">─────────</span>
-  </h4>
-</div>
+<p align="center">
+  <svg width="450" height="40" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+      <linearGradient id="gradient3" x1="0%" y1="0%" x2="100%" y2="0%">
+        <stop offset="0%" stop-color="#00f5ff" />
+        <stop offset="100%" stop-color="#ff00ff" />
+      </linearGradient>
+    </defs>
+    <text x="50%" y="25" text-anchor="middle" font-family="Orbitron, monospace" font-size="16" font-weight="600" fill="url(#gradient3)">
+      ──────── AI & MACHINE LEARNING ────────
+    </text>
+  </svg>
+</p>
 
 <div style="display: flex; flex-wrap: wrap; gap: 8px; justify-content: flex-start;">
 
@@ -117,13 +135,19 @@ timeline
 
 </div>
 
-<div align="center">
-  <h4 style="font-family: 'Orbitron', monospace; font-size: 1.1em; background: linear-gradient(45deg, #00f5ff, #ff00ff); -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text; margin: 15px 0; font-weight: 600;">
-    <span style="color: #00f5ff;">─────────</span>
-    CLOUD & INFRASTRUCTURE
-    <span style="color: #ff00ff;">─────────</span>
-  </h4>
-</div>
+<p align="center">
+  <svg width="470" height="40" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+      <linearGradient id="gradient4" x1="0%" y1="0%" x2="100%" y2="0%">
+        <stop offset="0%" stop-color="#00f5ff" />
+        <stop offset="100%" stop-color="#ff00ff" />
+      </linearGradient>
+    </defs>
+    <text x="50%" y="25" text-anchor="middle" font-family="Orbitron, monospace" font-size="16" font-weight="600" fill="url(#gradient4)">
+      ─────── CLOUD & INFRASTRUCTURE ───────
+    </text>
+  </svg>
+</p>
 
 <div style="display: flex; flex-wrap: wrap; gap: 8px; justify-content: flex-start;">
 
@@ -139,13 +163,19 @@ timeline
 
 </div>
 
-<div align="center">
-  <h4 style="font-family: 'Orbitron', monospace; font-size: 1.1em; background: linear-gradient(45deg, #00f5ff, #ff00ff); -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text; margin: 15px 0; font-weight: 600;">
-    <span style="color: #00f5ff;">─────────</span>
-    DATABASES & STORAGE
-    <span style="color: #ff00ff;">─────────</span>
-  </h4>
-</div>
+<p align="center">
+  <svg width="440" height="40" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+      <linearGradient id="gradient5" x1="0%" y1="0%" x2="100%" y2="0%">
+        <stop offset="0%" stop-color="#00f5ff" />
+        <stop offset="100%" stop-color="#ff00ff" />
+      </linearGradient>
+    </defs>
+    <text x="50%" y="25" text-anchor="middle" font-family="Orbitron, monospace" font-size="16" font-weight="600" fill="url(#gradient5)">
+      ──────── DATABASES & STORAGE ────────
+    </text>
+  </svg>
+</p>
 
 <div style="display: flex; flex-wrap: wrap; gap: 8px; justify-content: flex-start;">
 
@@ -157,13 +187,19 @@ timeline
 
 </div>
 
-<div align="center">
-  <h4 style="font-family: 'Orbitron', monospace; font-size: 1.1em; background: linear-gradient(45deg, #00f5ff, #ff00ff); -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text; margin: 15px 0; font-weight: 600;">
-    <span style="color: #00f5ff;">─────────</span>
-    TESTING & QUALITY
-    <span style="color: #ff00ff;">─────────</span>
-  </h4>
-</div>
+<p align="center">
+  <svg width="430" height="40" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+      <linearGradient id="gradient6" x1="0%" y1="0%" x2="100%" y2="0%">
+        <stop offset="0%" stop-color="#00f5ff" />
+        <stop offset="100%" stop-color="#ff00ff" />
+      </linearGradient>
+    </defs>
+    <text x="50%" y="25" text-anchor="middle" font-family="Orbitron, monospace" font-size="16" font-weight="600" fill="url(#gradient6)">
+      ────────── TESTING & QUALITY ──────────
+    </text>
+  </svg>
+</p>
 
 <div style="display: flex; flex-wrap: wrap; gap: 8px; justify-content: flex-start;">
 
@@ -176,13 +212,19 @@ timeline
 
 </div>
 
-<div align="center">
-  <h4 style="font-family: 'Orbitron', monospace; font-size: 1.1em; background: linear-gradient(45deg, #00f5ff, #ff00ff); -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text; margin: 15px 0; font-weight: 600;">
-    <span style="color: #00f5ff;">─────────</span>
-    DEVOPS & CI/CD
-    <span style="color: #ff00ff;">─────────</span>
-  </h4>
-</div>
+<p align="center">
+  <svg width="400" height="40" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+      <linearGradient id="gradient7" x1="0%" y1="0%" x2="100%" y2="0%">
+        <stop offset="0%" stop-color="#00f5ff" />
+        <stop offset="100%" stop-color="#ff00ff" />
+      </linearGradient>
+    </defs>
+    <text x="50%" y="25" text-anchor="middle" font-family="Orbitron, monospace" font-size="16" font-weight="600" fill="url(#gradient7)">
+      ────────── DEVOPS & CI/CD ──────────
+    </text>
+  </svg>
+</p>
 
 <div style="display: flex; flex-wrap: wrap; gap: 8px; justify-content: flex-start;">
 
@@ -194,13 +236,19 @@ timeline
 
 </div>
 
-<div align="center">
-  <h4 style="font-family: 'Orbitron', monospace; font-size: 1.1em; background: linear-gradient(45deg, #00f5ff, #ff00ff); -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text; margin: 15px 0; font-weight: 600;">
-    <span style="color: #00f5ff;">─────────</span>
-    MONITORING & ANALYTICS
-    <span style="color: #ff00ff;">─────────</span>
-  </h4>
-</div>
+<p align="center">
+  <svg width="480" height="40" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+      <linearGradient id="gradient8" x1="0%" y1="0%" x2="100%" y2="0%">
+        <stop offset="0%" stop-color="#00f5ff" />
+        <stop offset="100%" stop-color="#ff00ff" />
+      </linearGradient>
+    </defs>
+    <text x="50%" y="25" text-anchor="middle" font-family="Orbitron, monospace" font-size="16" font-weight="600" fill="url(#gradient8)">
+      ────── MONITORING & ANALYTICS ──────
+    </text>
+  </svg>
+</p>
 
 <div style="display: flex; flex-wrap: wrap; gap: 8px; justify-content: flex-start;">
 
@@ -212,13 +260,19 @@ timeline
 
 </div>
 
-<div align="center">
-  <h4 style="font-family: 'Orbitron', monospace; font-size: 1.1em; background: linear-gradient(45deg, #00f5ff, #ff00ff); -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text; margin: 15px 0; font-weight: 600;">
-    <span style="color: #00f5ff;">─────────</span>
-    DEVELOPER TOOLS
-    <span style="color: #ff00ff;">─────────</span>
-  </h4>
-</div>
+<p align="center">
+  <svg width="420" height="40" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+      <linearGradient id="gradient9" x1="0%" y1="0%" x2="100%" y2="0%">
+        <stop offset="0%" stop-color="#00f5ff" />
+        <stop offset="100%" stop-color="#ff00ff" />
+      </linearGradient>
+    </defs>
+    <text x="50%" y="25" text-anchor="middle" font-family="Orbitron, monospace" font-size="16" font-weight="600" fill="url(#gradient9)">
+      ───────── DEVELOPER TOOLS ─────────
+    </text>
+  </svg>
+</p>
 
 <div style="display: flex; flex-wrap: wrap; gap: 8px; justify-content: flex-start;">
 
