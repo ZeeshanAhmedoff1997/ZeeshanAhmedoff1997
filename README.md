@@ -2,11 +2,15 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f5ff,100:ff00ff&height=250&section=header&text=Zeeshan%20Ahmed%20Sarwar&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=40"/>
 </p>
 
-<h3 align="center">🚀 Senior AI Software Engineer | React • Rails • Node • Python | AI • LLM</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&pause=1000&color=00F5FF&center=true&vCenter=true&width=1000&lines=🚀+Senior+AI+Software+Engineer;React+•+Rails+•+Node+•+Python;Building+the+Future+with+AI+%26+Code;Full-Stack+•+Cloud+•+Microservices" alt="Typing SVG" />
+</p>
+
 <p align="center">
   <a href="mailto:zeshanahmedoff@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-blue?style=for-the-badge&logo=gmail"/></a>
   <a href="https://www.linkedin.com/in/expert-fullstack-webdeveloper/"><img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Resume-Download-red?style=for-the-badge&logo=adobeacrobatreader"/></a>
+  <a href="https://drive.google.com/file/d/your-resume-id/view"><img src="https://img.shields.io/badge/Resume-Download-red?style=for-the-badge&logo=adobeacrobatreader"/></a>
+  <img src="https://komarev.com/ghpvc/?username=ZeeshanAhmedoff1997&style=for-the-badge&color=blueviolet" alt="Profile Views"/>
 </p>
 
 ---
@@ -41,7 +45,7 @@ timeline
     2022 : CFP Energy (UK) : Founding Engineer | React → Next.js Migration | Real-time dashboards
     2023 : CurveHealth : Rails + Medplum + React for healthcare
     2024 : Maximus : Telehealth platform | Appointment sync + EMR
-    2025 : UNTIL + DitchCarbon : AI, Serverless, and Climate-tech
+    2024-Present : UNTIL + DitchCarbon : AI, Serverless, and Climate-tech
 ```
 
 ---
@@ -76,11 +80,34 @@ timeline
 
 ---
 
+## 🎯 Currently Working On
+
+```yaml
+projects:
+  - name: 'DitchCarbon AI Platform'
+    status: '🚀 In Development'
+    tech: ['Node.js', 'React', 'AI/ML', 'Climate Data']
+  - name: 'Healthcare EMR Integration'
+    status: '🔧 Optimizing'
+    tech: ['Rails', 'Medplum', 'FHIR', 'PostgreSQL']
+focus_areas:
+  - AI-driven climate prediction models
+  - Microservices architecture optimization
+  - Real-time data processing pipelines
+```
+
+---
+
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ZeeshanAhmedoff1997&show_icons=true&theme=radical" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ZeeshanAhmedoff1997&show_icons=true&theme=radical&include_all_commits=true&count_private=true" height="160"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ZeeshanAhmedoff1997&theme=radical" height="160"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZeeshanAhmedoff1997&layout=compact&theme=radical&langs_count=10" height="160"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ZeeshanAhmedoff1997&theme=redical&hide_border=true" height="160"/>
 </p>
 
 ---
