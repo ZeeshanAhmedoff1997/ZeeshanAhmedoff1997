@@ -1,10 +1,90 @@
-- 👋 Hi, I’m @ZeeshanAhmedoff1997
-- 👀 I’m experienced Web Developer having experience of working with multiple startups and Enterprise solutions.
-- 🌱 I’m currently polishing my professional skills in AWS
-- 💞️ I’m looking to collaborate on any project related to Full Stack developemnt
-- 📫 How to reach me. Email: zeshanahmedoff@gmail.com
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f5ff,100:ff00ff&height=250&section=header&text=Zeeshan%20Ahmed%20Sarwar&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=40"/>
+</p>
 
-<!---
-ZeeshanAhmedoff1997/ZeeshanAhmedoff1997 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<h3 align="center">🚀 Senior AI Software Engineer | React • Rails • Node • Python | AI • LLM</h3>
+<p align="center">
+  <a href="mailto:zeshanahmedoff@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-blue?style=for-the-badge&logo=gmail"/></a>
+  <a href="https://www.linkedin.com/in/expert-fullstack-webdeveloper/"><img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Resume-Download-red?style=for-the-badge&logo=adobeacrobatreader"/></a>
+</p>
+
+---
+
+## 🌌 About Me
+
+```yaml
+name: Zeeshan Ahmed Sarwar
+role: Senior Software Engineer
+location: Remote | UK Ltd Registered
+specialities:
+  - React.js | Next.js | TypeScript
+  - Ruby on Rails | Hotwire | Stimulus
+  - Node.js | Fastify | GraphQL
+  - AWS | PostgreSQL | Docker | Microservices
+interests:
+  - AI-driven engineering
+  - Futuristic system design
+  - Building scalable startups
+```
+
+---
+
+## 🕰 Career Timeline
+
+```mermaid
+timeline
+    title 🚀 My Tech Journey
+    2019 : Devsinc : Associate Software Engineer
+    2020 : Exponento : Frontend Developer (WordPress / Node / PHP)
+    2021 : SplitSpot : Full Stack Engineer (Rails + React)
+    2022 : CFP Energy (UK) : Founding Engineer | React → Next.js Migration | Real-time dashboards
+    2023 : CurveHealth : Rails + Medplum + React for healthcare
+    2024 : Maximus : Telehealth platform | Appointment sync + EMR
+    2025 : UNTIL + DitchCarbon : AI, Serverless, and Climate-tech
+```
+
+---
+
+## ⚡ Tech Stack
+
+<p align="center">
+  <!-- Frontend -->
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs"/>
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <!-- Backend -->
+  <img src="https://img.shields.io/badge/Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Fastify-000000?style=for-the-badge&logo=fastify"/>
+  <!-- Cloud & DB -->
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+</p>
+
+---
+
+## 💼 Featured Projects
+
+| Project             | Description                                 | Tech                      | Screenshot                                                              |
+| ------------------- | ------------------------------------------- | ------------------------- | ----------------------------------------------------------------------- |
+| [⚡ Hiro Flash](#)  | AI-powered PnL reports + Trading dashboards | React, Next.js, Rails, AI | ![Screenshot](https://via.placeholder.com/400x200.png?text=Hiro+Flash)  |
+| [🏠 SplitSpot](#)   | Automated rental workflows (Rails + React)  | Rails, React, PostgreSQL  | ![Screenshot](https://via.placeholder.com/400x200.png?text=SplitSpot)   |
+| [❤️ CurveHealth](#) | Healthcare EMR with Medplum + Rails         | Rails, React, Medplum     | ![Screenshot](https://via.placeholder.com/400x200.png?text=CurveHealth) |
+| [🌍 DitchCarbon](#) | Climate AI prediction dashboards            | Fastify, React, AI        | ![Screenshot](https://via.placeholder.com/400x200.png?text=DitchCarbon) |
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ZeeshanAhmedoff1997&show_icons=true&theme=radical" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ZeeshanAhmedoff1997&theme=radical" height="160"/>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff00ff,100:00f5ff&height=150&section=footer"/>
+</p>
