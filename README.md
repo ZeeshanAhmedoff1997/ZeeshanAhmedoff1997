@@ -54,6 +54,8 @@ timeline
 
 ### 🎨 Frontend
 
+<div style="display: flex; flex-wrap: wrap; gap: 8px; justify-content: flex-start;">
+
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs"/>
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
@@ -65,7 +67,11 @@ timeline
 <img src="https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black"/>
 <img src="https://img.shields.io/badge/Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white"/>
 
+</div>
+
 ### 🔧 Backend & APIs
+
+<div style="display: flex; flex-wrap: wrap; gap: 8px; justify-content: flex-start;">
 
 <img src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white"/>
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
@@ -77,7 +83,11 @@ timeline
 <img src="https://img.shields.io/badge/Turbo-5CD8E5?style=for-the-badge&logo=hotwire&logoColor=white"/>
 <img src="https://img.shields.io/badge/Stimulus-77E8B9?style=for-the-badge&logo=hotwire&logoColor=black"/>
 
+</div>
+
 ### 🤖 AI & Machine Learning
+
+<div style="display: flex; flex-wrap: wrap; gap: 8px; justify-content: flex-start;">
 
 <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
 <img src="https://img.shields.io/badge/Large_Language_Models-FF6B6B?style=for-the-badge&logo=openai&logoColor=white"/>
@@ -87,7 +97,11 @@ timeline
 <img src="https://img.shields.io/badge/Computer_Vision-00CED1?style=for-the-badge&logo=opencv&logoColor=white"/>
 <img src="https://img.shields.io/badge/Natural_Language_Processing-FF69B4?style=for-the-badge&logo=python&logoColor=white"/>
 
+</div>
+
 ### ☁️ Cloud & Infrastructure
+
+<div style="display: flex; flex-wrap: wrap; gap: 8px; justify-content: flex-start;">
 
 <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
 <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"/>
@@ -99,7 +113,11 @@ timeline
 <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
 <img src="https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white"/>
 
+</div>
+
 ### 🗄️ Databases & Storage
+
+<div style="display: flex; flex-wrap: wrap; gap: 8px; justify-content: flex-start;">
 
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
 <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
@@ -107,7 +125,11 @@ timeline
 <img src="https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase&logoColor=white"/>
 <img src="https://img.shields.io/badge/AWS_S3-569A31?style=for-the-badge&logo=amazon-s3&logoColor=white"/>
 
+</div>
+
 ### 🧪 Testing & Quality
+
+<div style="display: flex; flex-wrap: wrap; gap: 8px; justify-content: flex-start;">
 
 <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white"/>
 <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white"/>
@@ -116,7 +138,11 @@ timeline
 <img src="https://img.shields.io/badge/React_Testing_Library-E33332?style=for-the-badge&logo=testing-library&logoColor=white"/>
 <img src="https://img.shields.io/badge/Mocha-8D6748?style=for-the-badge&logo=mocha&logoColor=white"/>
 
+</div>
+
 ### 🔄 DevOps & CI/CD
+
+<div style="display: flex; flex-wrap: wrap; gap: 8px; justify-content: flex-start;">
 
 <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitLab_CI-FCA326?style=for-the-badge&logo=gitlab&logoColor=white"/>
@@ -124,7 +150,11 @@ timeline
 <img src="https://img.shields.io/badge/CircleCI-343434?style=for-the-badge&logo=circleci&logoColor=white"/>
 <img src="https://img.shields.io/badge/AWS_CodePipeline-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
 
+</div>
+
 ### 📊 Monitoring & Analytics
+
+<div style="display: flex; flex-wrap: wrap; gap: 8px; justify-content: flex-start;">
 
 <img src="https://img.shields.io/badge/Sentry-362D59?style=for-the-badge&logo=sentry&logoColor=white"/>
 <img src="https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white"/>
@@ -132,7 +162,11 @@ timeline
 <img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white"/>
 <img src="https://img.shields.io/badge/PostHog-000000?style=for-the-badge&logo=posthog&logoColor=white"/>
 
+</div>
+
 ### 🛠️ Developer Tools
+
+<div style="display: flex; flex-wrap: wrap; gap: 8px; justify-content: flex-start;">
 
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
@@ -141,6 +175,8 @@ timeline
 <img src="https://img.shields.io/badge/Stripe-008CDD?style=for-the-badge&logo=stripe&logoColor=white"/>
 <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white"/>
 <img src="https://img.shields.io/badge/Apollo_Client-311C87?style=for-the-badge&logo=apollo-graphql&logoColor=white"/>
+
+</div>
 
 ---
 
