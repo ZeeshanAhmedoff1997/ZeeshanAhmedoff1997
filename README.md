@@ -289,12 +289,82 @@ timeline
 
 ## 💼 Featured Projects
 
-| Project             | Description                                 | Tech                      | Screenshot                                                              |
-| ------------------- | ------------------------------------------- | ------------------------- | ----------------------------------------------------------------------- |
-| [⚡ Hiro Flash](#)  | AI-powered PnL reports + Trading dashboards | React, Next.js, Rails, AI | ![Screenshot](https://via.placeholder.com/400x200.png?text=Hiro+Flash)  |
-| [🏠 SplitSpot](#)   | Automated rental workflows (Rails + React)  | Rails, React, PostgreSQL  | ![Screenshot](https://via.placeholder.com/400x200.png?text=SplitSpot)   |
-| [❤️ CurveHealth](#) | Healthcare EMR with Medplum + Rails         | Rails, React, Medplum     | ![Screenshot](https://via.placeholder.com/400x200.png?text=CurveHealth) |
-| [🌍 DitchCarbon](#) | Climate AI prediction dashboards            | Fastify, React, AI        | ![Screenshot](https://via.placeholder.com/400x200.png?text=DitchCarbon) |
+<div align="center">
+
+### 🚀 Project Showcase
+
+</div>
+
+<table align="center">
+<tr>
+<td align="center" width="50%">
+
+**⚡ Hiro Flash**
+<br/>
+_AI-powered PnL reports + Trading dashboards_
+
+[![Hiro Flash](https://img.shields.io/badge/Live_Demo-⚡_Hiro_Flash-FF6B6B?style=for-the-badge&logo=lightning&logoColor=white)](#)
+[![Tech Stack](https://img.shields.io/badge/Tech-React•Next.js•Rails•AI-4ECDC4?style=for-the-badge)](#)
+
+🔹 Real-time trading analytics  
+🔹 AI-driven profit/loss insights  
+🔹 Interactive financial dashboards
+
+</td>
+<td align="center" width="50%">
+
+**🏠 SplitSpot**
+<br/>
+_Automated rental workflows (Rails + React)_
+
+[![SplitSpot](https://img.shields.io/badge/Live_Demo-🏠_SplitSpot-45B7D1?style=for-the-badge&logo=home&logoColor=white)](#)
+[![Tech Stack](https://img.shields.io/badge/Tech-Rails•React•PostgreSQL-96CEB4?style=for-the-badge)](#)
+
+🔹 Property management automation  
+🔹 Tenant workflow optimization  
+🔹 Real-time rental analytics
+
+</td>
+</tr>
+<tr>
+<td align="center" width="50%">
+
+**❤️ CurveHealth**
+<br/>
+_Healthcare EMR with Medplum + Rails_
+
+[![CurveHealth](https://img.shields.io/badge/Live_Demo-❤️_CurveHealth-FF6B9D?style=for-the-badge&logo=heart&logoColor=white)](#)
+[![Tech Stack](https://img.shields.io/badge/Tech-Rails•React•Medplum•FHIR-FFEAA7?style=for-the-badge)](#)
+
+🔹 Electronic Medical Records  
+🔹 FHIR-compliant healthcare data  
+🔹 Patient management system
+
+</td>
+<td align="center" width="50%">
+
+**🌍 DitchCarbon**
+<br/>
+_Climate AI prediction dashboards_
+
+[![DitchCarbon](https://img.shields.io/badge/Live_Demo-🌍_DitchCarbon-00B894?style=for-the-badge&logo=leaf&logoColor=white)](#)
+[![Tech Stack](https://img.shields.io/badge/Tech-Fastify•React•AI/ML-81ECEC?style=for-the-badge)](#)
+
+🔹 Climate data visualization  
+🔹 AI-powered predictions  
+🔹 Carbon footprint analytics
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+### 🎯 More Projects Coming Soon...
+
+[![View All Projects](https://img.shields.io/badge/🔗_View_All_Projects-Portfolio_Website-6C5CE7?style=for-the-badge&logo=github&logoColor=white)](#)
+
+</div>
 
 ---
 
