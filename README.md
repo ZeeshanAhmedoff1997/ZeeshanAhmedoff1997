@@ -295,68 +295,85 @@ timeline
 
 </div>
 
-<table align="center">
-<tr>
-<td align="center" width="50%">
+<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center; margin: 20px 0;">
 
-**⚡ Hiro Flash**
-<br/>
-_AI-powered PnL reports + Trading dashboards_
+<!-- Project Card 1: Hiro Flash -->
+<div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); border-radius: 15px; padding: 25px; margin: 10px; width: 300px; box-shadow: 0 8px 32px rgba(0,0,0,0.1); border: 1px solid rgba(255,255,255,0.1); backdrop-filter: blur(10px);">
+
+<div style="text-align: center;">
+<h3 style="color: #ffffff; margin: 0 0 10px 0; font-size: 1.5em;">⚡ Hiro Flash</h3>
+<p style="color: #e0e0e0; font-style: italic; margin: 0 0 15px 0;">AI-powered PnL reports + Trading dashboards</p>
 
 [![Hiro Flash](https://img.shields.io/badge/Live_Demo-⚡_Hiro_Flash-FF6B6B?style=for-the-badge&logo=lightning&logoColor=white)](#)
 [![Tech Stack](https://img.shields.io/badge/Tech-React•Next.js•Rails•AI-4ECDC4?style=for-the-badge)](#)
 
-🔹 Real-time trading analytics  
-🔹 AI-driven profit/loss insights  
+<div style="text-align: left; margin-top: 15px; color: #ffffff;">
+🔹 Real-time trading analytics<br/>
+🔹 AI-driven profit/loss insights<br/>
 🔹 Interactive financial dashboards
+</div>
+</div>
 
-</td>
-<td align="center" width="50%">
+</div>
 
-**🏠 SplitSpot**
-<br/>
-_Automated rental workflows (Rails + React)_
+<!-- Project Card 2: SplitSpot -->
+<div style="background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%); border-radius: 15px; padding: 25px; margin: 10px; width: 300px; box-shadow: 0 8px 32px rgba(0,0,0,0.1); border: 1px solid rgba(255,255,255,0.1); backdrop-filter: blur(10px);">
+
+<div style="text-align: center;">
+<h3 style="color: #ffffff; margin: 0 0 10px 0; font-size: 1.5em;">🏠 SplitSpot</h3>
+<p style="color: #e0e0e0; font-style: italic; margin: 0 0 15px 0;">Automated rental workflows (Rails + React)</p>
 
 [![SplitSpot](https://img.shields.io/badge/Live_Demo-🏠_SplitSpot-45B7D1?style=for-the-badge&logo=home&logoColor=white)](#)
 [![Tech Stack](https://img.shields.io/badge/Tech-Rails•React•PostgreSQL-96CEB4?style=for-the-badge)](#)
 
-🔹 Property management automation  
-🔹 Tenant workflow optimization  
+<div style="text-align: left; margin-top: 15px; color: #ffffff;">
+🔹 Property management automation<br/>
+🔹 Tenant workflow optimization<br/>
 🔹 Real-time rental analytics
+</div>
+</div>
 
-</td>
-</tr>
-<tr>
-<td align="center" width="50%">
+</div>
 
-**❤️ CurveHealth**
-<br/>
-_Healthcare EMR with Medplum + Rails_
+<!-- Project Card 3: CurveHealth -->
+<div style="background: linear-gradient(135deg, #4facfe 0%, #00f2fe 100%); border-radius: 15px; padding: 25px; margin: 10px; width: 300px; box-shadow: 0 8px 32px rgba(0,0,0,0.1); border: 1px solid rgba(255,255,255,0.1); backdrop-filter: blur(10px);">
+
+<div style="text-align: center;">
+<h3 style="color: #ffffff; margin: 0 0 10px 0; font-size: 1.5em;">❤️ CurveHealth</h3>
+<p style="color: #e0e0e0; font-style: italic; margin: 0 0 15px 0;">Healthcare EMR with Medplum + Rails</p>
 
 [![CurveHealth](https://img.shields.io/badge/Live_Demo-❤️_CurveHealth-FF6B9D?style=for-the-badge&logo=heart&logoColor=white)](#)
 [![Tech Stack](https://img.shields.io/badge/Tech-Rails•React•Medplum•FHIR-FFEAA7?style=for-the-badge)](#)
 
-🔹 Electronic Medical Records  
-🔹 FHIR-compliant healthcare data  
+<div style="text-align: left; margin-top: 15px; color: #ffffff;">
+🔹 Electronic Medical Records<br/>
+🔹 FHIR-compliant healthcare data<br/>
 🔹 Patient management system
+</div>
+</div>
 
-</td>
-<td align="center" width="50%">
+</div>
 
-**🌍 DitchCarbon**
-<br/>
-_Climate AI prediction dashboards_
+<!-- Project Card 4: DitchCarbon -->
+<div style="background: linear-gradient(135deg, #43e97b 0%, #38f9d7 100%); border-radius: 15px; padding: 25px; margin: 10px; width: 300px; box-shadow: 0 8px 32px rgba(0,0,0,0.1); border: 1px solid rgba(255,255,255,0.1); backdrop-filter: blur(10px);">
+
+<div style="text-align: center;">
+<h3 style="color: #ffffff; margin: 0 0 10px 0; font-size: 1.5em;">🌍 DitchCarbon</h3>
+<p style="color: #e0e0e0; font-style: italic; margin: 0 0 15px 0;">Climate AI prediction dashboards</p>
 
 [![DitchCarbon](https://img.shields.io/badge/Live_Demo-🌍_DitchCarbon-00B894?style=for-the-badge&logo=leaf&logoColor=white)](#)
 [![Tech Stack](https://img.shields.io/badge/Tech-Fastify•React•AI/ML-81ECEC?style=for-the-badge)](#)
 
-🔹 Climate data visualization  
-🔹 AI-powered predictions  
+<div style="text-align: left; margin-top: 15px; color: #ffffff;">
+🔹 Climate data visualization<br/>
+🔹 AI-powered predictions<br/>
 🔹 Carbon footprint analytics
+</div>
+</div>
 
-</td>
-</tr>
-</table>
+</div>
+
+</div>
 
 <div align="center">
 
