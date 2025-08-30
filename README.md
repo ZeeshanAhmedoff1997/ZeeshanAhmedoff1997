@@ -19,13 +19,14 @@
 
 ```yaml
 name: Zeeshan Ahmed Sarwar
-role: Senior Software Engineer
-location: Remote | UK Ltd Registered
+role: Senior AI Software Engineer
+location: Remote | UK Ltd Registered | Open for Contract Work
 specialities:
   - React.js | Next.js | TypeScript
-  - Ruby on Rails | Hotwire | Stimulus
-  - Node.js | Fastify | GraphQL
-  - AWS | PostgreSQL | Docker | Microservices
+  - Ruby on Rails | PostgreSQL
+  - Node.js | Fastify | GraphQL | Nest js
+  - Python | AI Integration | LLM | GenAI
+  - AWS | Docker | Microservices
 interests:
   - AI-driven engineering
   - Futuristic system design
@@ -40,12 +41,10 @@ interests:
 timeline
     title 🚀 My Tech Journey
     2019 : Devsinc : Associate Software Engineer
-    2020 : Exponento : Frontend Developer (WordPress / Node / PHP)
-    2021 : SplitSpot : Full Stack Engineer (Rails + React)
-    2022 : CFP Energy (UK) : Founding Engineer | React → Next.js Migration | Real-time dashboards
-    2023 : CurveHealth : Rails + Medplum + React for healthcare
-    2024 : Maximus : Telehealth platform | Appointment sync + EMR
-    2024-Present : UNTIL + DitchCarbon : AI, Serverless, and Climate-tech
+    2020 : Devsinc : Promoted to Software Engineer
+    Aug 2020 - Nov 2021 : Prontoetech Services : Full Stack Engineer
+    Nov 2021 - Nov 2022 : Splitpost : Full Stack Software Engineer
+    Nov 2022 - Present : CFP Energy : Senior AI Software Engineer
 ```
 
 ---
