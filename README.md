@@ -295,9 +295,14 @@ timeline
 
 </div>
 
-<table>
+<table style="border-collapse: separate; border-spacing: 20px;">
 <tr>
-<td width="50%" valign="top">
+<td width="45%" valign="top" style="border: 2px solid #e1e8ed; border-radius: 15px; padding: 20px; background: #fafbfc;">
+
+<!-- Screenshot Placeholder -->
+<div align="center" style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); height: 120px; border-radius: 10px; margin-bottom: 15px; display: flex; align-items: center; justify-content: center;">
+<img src="https://via.placeholder.com/300x120/667eea/ffffff?text=⚡+Hiro+Flash+Screenshot" alt="Hiro Flash Screenshot" style="border-radius: 8px; max-width: 100%; height: auto;">
+</div>
 
 <div align="center">
 
@@ -322,7 +327,12 @@ features:
 </div>
 
 </td>
-<td width="50%" valign="top">
+<td width="45%" valign="top" style="border: 2px solid #e1e8ed; border-radius: 15px; padding: 20px; background: #fafbfc;">
+
+<!-- Screenshot Placeholder -->
+<div align="center" style="background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%); height: 120px; border-radius: 10px; margin-bottom: 15px; display: flex; align-items: center; justify-content: center;">
+<img src="https://via.placeholder.com/300x120/f093fb/ffffff?text=🏠+SplitSpot+Screenshot" alt="SplitSpot Screenshot" style="border-radius: 8px; max-width: 100%; height: auto;">
+</div>
 
 <div align="center">
 
@@ -348,7 +358,12 @@ features:
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
+<td width="45%" valign="top" style="border: 2px solid #e1e8ed; border-radius: 15px; padding: 20px; background: #fafbfc;">
+
+<!-- Screenshot Placeholder -->
+<div align="center" style="background: linear-gradient(135deg, #4facfe 0%, #00f2fe 100%); height: 120px; border-radius: 10px; margin-bottom: 15px; display: flex; align-items: center; justify-content: center;">
+<img src="https://via.placeholder.com/300x120/4facfe/ffffff?text=❤️+CurveHealth+Screenshot" alt="CurveHealth Screenshot" style="border-radius: 8px; max-width: 100%; height: auto;">
+</div>
 
 <div align="center">
 
@@ -373,7 +388,12 @@ features:
 </div>
 
 </td>
-<td width="50%" valign="top">
+<td width="45%" valign="top" style="border: 2px solid #e1e8ed; border-radius: 15px; padding: 20px; background: #fafbfc;">
+
+<!-- Screenshot Placeholder -->
+<div align="center" style="background: linear-gradient(135deg, #43e97b 0%, #38f9d7 100%); height: 120px; border-radius: 10px; margin-bottom: 15px; display: flex; align-items: center; justify-content: center;">
+<img src="https://via.placeholder.com/300x120/43e97b/ffffff?text=🌍+DitchCarbon+Screenshot" alt="DitchCarbon Screenshot" style="border-radius: 8px; max-width: 100%; height: auto;">
+</div>
 
 <div align="center">
 
