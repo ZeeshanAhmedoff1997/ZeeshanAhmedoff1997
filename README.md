@@ -7,16 +7,14 @@
 </p>
 
 <p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&size=18&pause=1500&color=ff69b4&center=true&vCenter=true&width=1000&lines=puts+%22🔥+Rails+Master+%7C+Building+Scalable+Web+Architectures%22;print(%22🐍+Python+AI+Engineer+%7C+Training+Tomorrow's+Intelligence%22);console.log('⚡+JavaScript+Wizard+%7C+Bringing+Ideas+to+Life');console.log('🚀+Node.js+Architect+%7C+Powering+Backend+Innovation');console.log('⚛️+React+Virtuoso+%7C+Crafting+Dynamic+User+Experiences');console.log('🌐+Next.js+Pioneer+%7C+Full-Stack+Future+Builder');fmt.Println(%22⚙️+Go+Developer+%7C+Concurrent+%26+Efficient+Systems%22);AI.output('🧠+AI+Whisperer+%7C+Merging+Human+%26+Machine+Intelligence')" alt="Multi-Language Greeting" />
+</p>
+
+<p align="center">
   <a href="mailto:zeshanahmedoff@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-blue?style=for-the-badge&logo=gmail"/></a>
   <a href="https://www.linkedin.com/in/expert-fullstack-webdeveloper/"><img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin"/></a>
   <a href="https://drive.google.com/file/d/your-resume-id/view"><img src="https://img.shields.io/badge/Resume-Download-red?style=for-the-badge&logo=adobeacrobatreader"/></a>
   <img src="https://komarev.com/ghpvc/?username=ZeeshanAhmedoff1997&style=for-the-badge&color=blueviolet" alt="Profile Views"/>
-</p>
-
----
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&size=18&pause=1500&color=ff69b4&center=true&vCenter=true&width=1000&lines=puts+%22🔥+Rails+Master+%7C+Building+Scalable+Web+Architectures%22;print(%22🐍+Python+AI+Engineer+%7C+Training+Tomorrow's+Intelligence%22);console.log('⚡+JavaScript+Wizard+%7C+Bringing+Ideas+to+Life');console.log('🚀+Node.js+Architect+%7C+Powering+Backend+Innovation');console.log('⚛️+React+Virtuoso+%7C+Crafting+Dynamic+User+Experiences');console.log('🌐+Next.js+Pioneer+%7C+Full-Stack+Future+Builder');fmt.Println(%22⚙️+Go+Developer+%7C+Concurrent+%26+Efficient+Systems%22);AI.output('🧠+AI+Whisperer+%7C+Merging+Human+%26+Machine+Intelligence')" alt="Multi-Language Greeting" />
 </p>
 
 ---
