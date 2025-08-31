@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&pause=1000&color=00F5FF,FF00FF&center=true&vCenter=true&width=1000&lines=🚀+Senior+AI+Software+Engineer;React+•+Next.js+•+Typescript+•+Rails+•+Node+•+Python;AI+•+LLM+•+MCP+•+Building+the+Future+with+Code;Full-Stack+•+Cloud+•+Microservices" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&pause=1000&color=00F5FF,FF00FF&center=true&vCenter=true&width=1000&lines=🚀+Senior+AI+Software+Engineer;React+•+Next.js+•+Typescript+•+Rails+•+Node+•+Python;AI+•+LLM+•+MCP+•+Building+the+Future+with+AI;Full-Stack+•+Cloud+•+Microservices" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -299,9 +299,9 @@ timeline
 <tr>
 <td width="45%" valign="top" style="border: 2px solid #e1e8ed; border-radius: 15px; padding: 20px; background: #fafbfc;">
 
-<!-- Screenshot Placeholder -->
-<div align="center" style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); height: 120px; border-radius: 10px; margin-bottom: 15px; display: flex; align-items: center; justify-content: center;">
-<img src="https://via.placeholder.com/300x120/667eea/ffffff?text=⚡+Hiro+Flash+Screenshot" alt="Hiro Flash Screenshot" style="border-radius: 8px; max-width: 100%; height: auto;">
+<!-- Screenshot -->
+<div align="center" style="height: 120px; border-radius: 10px; margin-bottom: 15px; overflow: hidden;">
+<img src="./screenshots/hiro-flash.png" alt="Hiro Flash Screenshot" style="border-radius: 8px; width: 100%; height: 120px; object-fit: cover;" onerror="this.src='https://via.placeholder.com/300x120/667eea/ffffff?text=⚡+Hiro+Flash+Screenshot'">
 </div>
 
 <div align="center">
@@ -329,9 +329,9 @@ features:
 </td>
 <td width="45%" valign="top" style="border: 2px solid #e1e8ed; border-radius: 15px; padding: 20px; background: #fafbfc;">
 
-<!-- Screenshot Placeholder -->
-<div align="center" style="background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%); height: 120px; border-radius: 10px; margin-bottom: 15px; display: flex; align-items: center; justify-content: center;">
-<img src="https://via.placeholder.com/300x120/f093fb/ffffff?text=🏠+SplitSpot+Screenshot" alt="SplitSpot Screenshot" style="border-radius: 8px; max-width: 100%; height: auto;">
+<!-- Screenshot -->
+<div align="center" style="height: 120px; border-radius: 10px; margin-bottom: 15px; overflow: hidden;">
+<img src="./screenshots/splitspot.png" alt="SplitSpot Screenshot" style="border-radius: 8px; width: 100%; height: 120px; object-fit: cover;" onerror="this.src='https://via.placeholder.com/300x120/f093fb/ffffff?text=🏠+SplitSpot+Screenshot'">
 </div>
 
 <div align="center">
@@ -360,9 +360,9 @@ features:
 <tr>
 <td width="45%" valign="top" style="border: 2px solid #e1e8ed; border-radius: 15px; padding: 20px; background: #fafbfc;">
 
-<!-- Screenshot Placeholder -->
-<div align="center" style="background: linear-gradient(135deg, #4facfe 0%, #00f2fe 100%); height: 120px; border-radius: 10px; margin-bottom: 15px; display: flex; align-items: center; justify-content: center;">
-<img src="https://via.placeholder.com/300x120/4facfe/ffffff?text=❤️+CurveHealth+Screenshot" alt="CurveHealth Screenshot" style="border-radius: 8px; max-width: 100%; height: auto;">
+<!-- Screenshot -->
+<div align="center" style="height: 120px; border-radius: 10px; margin-bottom: 15px; overflow: hidden;">
+<img src="./screenshots/curvehealth.png" alt="CurveHealth Screenshot" style="border-radius: 8px; width: 100%; height: 120px; object-fit: cover;" onerror="this.src='https://via.placeholder.com/300x120/4facfe/ffffff?text=❤️+CurveHealth+Screenshot'">
 </div>
 
 <div align="center">
@@ -390,9 +390,9 @@ features:
 </td>
 <td width="45%" valign="top" style="border: 2px solid #e1e8ed; border-radius: 15px; padding: 20px; background: #fafbfc;">
 
-<!-- Screenshot Placeholder -->
-<div align="center" style="background: linear-gradient(135deg, #43e97b 0%, #38f9d7 100%); height: 120px; border-radius: 10px; margin-bottom: 15px; display: flex; align-items: center; justify-content: center;">
-<img src="https://via.placeholder.com/300x120/43e97b/ffffff?text=🌍+DitchCarbon+Screenshot" alt="DitchCarbon Screenshot" style="border-radius: 8px; max-width: 100%; height: auto;">
+<!-- Screenshot -->
+<div align="center" style="height: 120px; border-radius: 10px; margin-bottom: 15px; overflow: hidden;">
+<img src="./screenshots/ditchcarbon.png" alt="DitchCarbon Screenshot" style="border-radius: 8px; width: 100%; height: 120px; object-fit: cover;" onerror="this.src='https://via.placeholder.com/300x120/43e97b/ffffff?text=🌍+DitchCarbon+Screenshot'">
 </div>
 
 <div align="center">
