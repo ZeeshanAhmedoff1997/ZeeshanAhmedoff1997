@@ -299,7 +299,10 @@ timeline
 
 </div>
 
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 30px; max-width: 1000px; margin: 0 auto;">
+<div align="center" style="max-width: 1200px; margin: 0 auto;">
+
+<!-- Row 1: First Two Projects -->
+<div style="display: flex; justify-content: center; gap: 30px; margin-bottom: 30px; flex-wrap: wrap;">
 
 <!-- Project 1: Hiro Flash -->
 <div style="width: 450px; border: 2px solid #e1e8ed; border-radius: 15px; padding: 25px; background: #fafbfc; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
@@ -366,12 +369,17 @@ features:
 
 </div>
 
+</div>
+
+<!-- Row 2: Second Two Projects -->
+<div style="display: flex; justify-content: center; gap: 30px; margin-bottom: 30px; flex-wrap: wrap;">
+
 <!-- Project 3: CurveHealth -->
-<div style="width: 500px; border: 2px solid #e1e8ed; border-radius: 15px; padding: 25px; background: #fafbfc; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+<div style="width: 450px; border: 2px solid #e1e8ed; border-radius: 15px; padding: 25px; background: #fafbfc; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
 
 <!-- Screenshot -->
 <div align="center" style="height: 120px; border-radius: 10px; margin-bottom: 20px; overflow: hidden;">
-<img src="./screenshots/curve-health.png" alt="CurveHealth Screenshot" style="border-radius: 8px; width: 100%; height: 120px; object-fit: cover;" onerror="this.src='https://via.placeholder.com/300x120/4facfe/ffffff?text=❤️+CurveHealth+Screenshot'">
+<img src="./screenshots/curve-health.png" alt="CurveHealth Screenshot" style="border-radius: 8px; width: 300px; height: 120px; object-fit: contain;" onerror="this.src='https://via.placeholder.com/300x120/4facfe/ffffff?text=❤️+CurveHealth+Screenshot'">
 </div>
 
 <div align="center">
@@ -400,11 +408,11 @@ features:
 </div>
 
 <!-- Project 4: Driveli -->
-<div style="width: 500px; border: 2px solid #e1e8ed; border-radius: 15px; padding: 25px; background: #fafbfc; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+<div style="width: 450px; border: 2px solid #e1e8ed; border-radius: 15px; padding: 25px; background: #fafbfc; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
 
 <!-- Screenshot -->
 <div align="center" style="height: 120px; border-radius: 10px; margin-bottom: 20px; overflow: hidden;">
-<img src="./screenshots/driveli.png" alt="Driveli Screenshot" style="border-radius: 8px; width: 100%; height: 120px; object-fit: cover;" onerror="this.src='https://via.placeholder.com/300x120/43e97b/ffffff?text=🌍+Driveli+Screenshot'">
+<img src="./screenshots/driveli.png" alt="Driveli Screenshot" style="border-radius: 8px; width: 300px; height: 120px; object-fit: contain;" onerror="this.src='https://via.placeholder.com/300x120/43e97b/ffffff?text=🌍+Driveli+Screenshot'">
 </div>
 
 <div align="center">
@@ -425,6 +433,8 @@ features:
   - Real-time feedback and guidance
   - Interactive learning modules
 ```
+
+</div>
 
 </div>
 
