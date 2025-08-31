@@ -7,7 +7,7 @@ This folder contains screenshots for the featured projects in the main README.
 1. **hiro-flash.png** - Screenshot of Hiro Flash trading dashboard
 2. **splitspot.png** - Screenshot of SplitSpot rental management interface
 3. **curvehealth.png** - Screenshot of CurveHealth EMR system
-4. **ditchcarbon.png** - Screenshot of DitchCarbon climate prediction dashboard
+4. **driveli.png** - Screenshot of Driveli AI driving instructor app
 
 ## Image Guidelines:
 
@@ -32,5 +32,5 @@ screenshots/
 ├── hiro-flash.png
 ├── splitspot.png
 ├── curvehealth.png
-└── ditchcarbon.png
+└── driveli.png
 ```

@@ -295,13 +295,14 @@ timeline
 
 </div>
 
-<table style="border-collapse: separate; border-spacing: 20px;">
-<tr>
-<td width="45%" valign="top" style="border: 2px solid #e1e8ed; border-radius: 15px; padding: 20px; background: #fafbfc;">
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 30px; max-width: 1200px; margin: 0 auto;">
+
+<!-- Project 1: Hiro Flash -->
+<div style="width: 500px; border: 2px solid #e1e8ed; border-radius: 15px; padding: 25px; background: #fafbfc; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
 
 <!-- Screenshot -->
-<div align="center" style="height: 120px; border-radius: 10px; margin-bottom: 15px; overflow: hidden;">
-<img src="./screenshots/hiro-flash.png" alt="Hiro Flash Screenshot" style="border-radius: 8px; width: 100%; height: 120px; object-fit: cover;" onerror="this.src='https://via.placeholder.com/300x120/667eea/ffffff?text=⚡+Hiro+Flash+Screenshot'">
+<div align="center" style="height: 120px; border-radius: 10px; margin-bottom: 20px; overflow: hidden;">
+<img src="./screenshots/cfp-energy.png" alt="Hiro Flash Screenshot" style="border-radius: 8px; width: 100%; height: 120px; object-fit: cover;" onerror="this.src='https://via.placeholder.com/300x120/667eea/ffffff?text=⚡+Hiro+Flash+Screenshot'">
 </div>
 
 <div align="center">
@@ -312,6 +313,7 @@ _AI-powered PnL reports + Trading dashboards_
 
 [![Hiro Flash](https://img.shields.io/badge/🚀_LIVE_DEMO-Hiro_Flash-FF6B6B?style=for-the-badge&logo=lightning&logoColor=white)](#)
 
+![Tech](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Tech](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Tech](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![Tech](https://img.shields.io/badge/Rails-CC0000?style=flat-square&logo=ruby-on-rails&logoColor=white)
@@ -319,18 +321,20 @@ _AI-powered PnL reports + Trading dashboards_
 
 ```yaml
 features:
-  - Real-time trading analytics
-  - AI-driven profit/loss insights
-  - Interactive financial dashboards
+  - Real-time Commodity trading analytics
+  - AI-driven profit/loss insights, Future Forcast
+  - Interactive financial dashboards, Statements and Reports.
 ```
 
 </div>
 
-</td>
-<td width="45%" valign="top" style="border: 2px solid #e1e8ed; border-radius: 15px; padding: 20px; background: #fafbfc;">
+</div>
+
+<!-- Project 2: SplitSpot -->
+<div style="width: 500px; border: 2px solid #e1e8ed; border-radius: 15px; padding: 25px; background: #fafbfc; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
 
 <!-- Screenshot -->
-<div align="center" style="height: 120px; border-radius: 10px; margin-bottom: 15px; overflow: hidden;">
+<div align="center" style="height: 120px; border-radius: 10px; margin-bottom: 20px; overflow: hidden;">
 <img src="./screenshots/splitspot.png" alt="SplitSpot Screenshot" style="border-radius: 8px; width: 100%; height: 120px; object-fit: cover;" onerror="this.src='https://via.placeholder.com/300x120/f093fb/ffffff?text=🏠+SplitSpot+Screenshot'">
 </div>
 
@@ -338,10 +342,11 @@ features:
 
 **🏠 SplitSpot**
 <br/>
-_Automated rental workflows (Rails + React)_
+_Automated rental workflows (Ruby on Rails + Node.js + React)_
 
 [![SplitSpot](https://img.shields.io/badge/🚀_LIVE_DEMO-SplitSpot-45B7D1?style=for-the-badge&logo=home&logoColor=white)](#)
 
+![Tech](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Tech](https://img.shields.io/badge/Rails-CC0000?style=flat-square&logo=ruby-on-rails&logoColor=white)
 ![Tech](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Tech](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
@@ -350,18 +355,18 @@ _Automated rental workflows (Rails + React)_
 features:
   - Property management automation
   - Tenant workflow optimization
-  - Real-time rental analytics
+  - Real-time rental and investment analytics
 ```
 
 </div>
 
-</td>
-</tr>
-<tr>
-<td width="45%" valign="top" style="border: 2px solid #e1e8ed; border-radius: 15px; padding: 20px; background: #fafbfc;">
+</div>
+
+<!-- Project 3: CurveHealth -->
+<div style="width: 500px; border: 2px solid #e1e8ed; border-radius: 15px; padding: 25px; background: #fafbfc; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
 
 <!-- Screenshot -->
-<div align="center" style="height: 120px; border-radius: 10px; margin-bottom: 15px; overflow: hidden;">
+<div align="center" style="height: 120px; border-radius: 10px; margin-bottom: 20px; overflow: hidden;">
 <img src="./screenshots/curvehealth.png" alt="CurveHealth Screenshot" style="border-radius: 8px; width: 100%; height: 120px; object-fit: cover;" onerror="this.src='https://via.placeholder.com/300x120/4facfe/ffffff?text=❤️+CurveHealth+Screenshot'">
 </div>
 
@@ -369,10 +374,11 @@ features:
 
 **❤️ CurveHealth**
 <br/>
-_Healthcare EMR with Medplum + Rails_
+_Healthcare EMR with Nextjs + Nodejs + Rails_
 
 [![CurveHealth](https://img.shields.io/badge/🚀_LIVE_DEMO-CurveHealth-FF6B9D?style=for-the-badge&logo=heart&logoColor=white)](#)
 
+![Tech](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Tech](https://img.shields.io/badge/Rails-CC0000?style=flat-square&logo=ruby-on-rails&logoColor=white)
 ![Tech](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Tech](https://img.shields.io/badge/Medplum-FF6B9D?style=flat-square&logo=medical&logoColor=white)
@@ -387,40 +393,42 @@ features:
 
 </div>
 
-</td>
-<td width="45%" valign="top" style="border: 2px solid #e1e8ed; border-radius: 15px; padding: 20px; background: #fafbfc;">
+</div>
+
+<!-- Project 4: Driveli -->
+<div style="width: 500px; border: 2px solid #e1e8ed; border-radius: 15px; padding: 25px; background: #fafbfc; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
 
 <!-- Screenshot -->
-<div align="center" style="height: 120px; border-radius: 10px; margin-bottom: 15px; overflow: hidden;">
-<img src="./screenshots/ditchcarbon.png" alt="DitchCarbon Screenshot" style="border-radius: 8px; width: 100%; height: 120px; object-fit: cover;" onerror="this.src='https://via.placeholder.com/300x120/43e97b/ffffff?text=🌍+DitchCarbon+Screenshot'">
+<div align="center" style="height: 120px; border-radius: 10px; margin-bottom: 20px; overflow: hidden;">
+<img src="./screenshots/driveli.png" alt="Driveli Screenshot" style="border-radius: 8px; width: 100%; height: 120px; object-fit: cover;" onerror="this.src='https://via.placeholder.com/300x120/43e97b/ffffff?text=🌍+Driveli+Screenshot'">
 </div>
 
 <div align="center">
 
-**🌍 DitchCarbon**
+**🌍 Driveli**
 <br/>
-_Climate AI prediction dashboards_
+_AI driving instructor app_
 
-[![DitchCarbon](https://img.shields.io/badge/🚀_LIVE_DEMO-DitchCarbon-00B894?style=for-the-badge&logo=leaf&logoColor=white)](#)
+[![Driveli](https://img.shields.io/badge/🚀_LIVE_DEMO-Driveli-00B894?style=for-the-badge&logo=car&logoColor=white)](#)
 
-![Tech](https://img.shields.io/badge/Fastify-000000?style=flat-square&logo=fastify&logoColor=white)
+![Tech](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Tech](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Tech](https://img.shields.io/badge/AI/ML-FF6B35?style=flat-square&logo=python&logoColor=white)
+![Tech](https://img.shields.io/badge/AI/ML-FF6B35?style=flat-square&logo=openai&logoColor=white)
 
 ```yaml
 features:
-  - Climate data visualization
-  - AI-powered predictions
-  - Carbon footprint analytics
+  - AI-powered driving instruction
+  - Real-time feedback and guidance
+  - Interactive learning modules
 ```
 
 </div>
 
-</td>
-</tr>
-</table>
+</div>
 
-<div align="center">
+</div>
+
+<div align="center" style="margin-top: 40px;">
 
 ### 🎯 More Projects Coming Soon...
 
