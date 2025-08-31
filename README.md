@@ -367,7 +367,7 @@ features:
 
 <!-- Screenshot -->
 <div align="center" style="height: 120px; border-radius: 10px; margin-bottom: 20px; overflow: hidden;">
-<img src="./screenshots/curvehealth.png" alt="CurveHealth Screenshot" style="border-radius: 8px; width: 100%; height: 120px; object-fit: cover;" onerror="this.src='https://via.placeholder.com/300x120/4facfe/ffffff?text=❤️+CurveHealth+Screenshot'">
+<img src="./screenshots/curve-health.png" alt="CurveHealth Screenshot" style="border-radius: 8px; width: 100%; height: 120px; object-fit: cover;" onerror="this.src='https://via.placeholder.com/300x120/4facfe/ffffff?text=❤️+CurveHealth+Screenshot'">
 </div>
 
 <div align="center">
