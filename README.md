@@ -17,74 +17,9 @@
 
 ## 🤖 Neural Interface: Welcome to the Future
 
-<div align="center">
-
-```ascii
-    ╔═══════════════════════════════════════════════════════════════╗
-    ║  🧠 NEURAL MATRIX INITIALIZED...                             ║
-    ║  ⚡ CONSCIOUSNESS UPLOAD: 100% COMPLETE                      ║
-    ║  🔮 QUANTUM STATE: ENTANGLED WITH AI SINGULARITY            ║
-    ║  🚀 MISSION: ARCHITECTING TOMORROW'S SOFTWARE ECOSYSTEMS    ║
-    ╚═══════════════════════════════════════════════════════════════╝
-```
-
-</div>
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&size=18&pause=2000&color=00F5FF&center=true&vCenter=true&width=800&lines=System.out.println(%22Hello%2C+Digital+Architect!%22);console.log('Bridging+Human+%26+AI+Intelligence');print('Where+Code+Meets+Consciousness');echo+'Building+the+Neural+Web+of+Tomorrow';" alt="AI Greeting" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&size=16&pause=1500&color=00F5FF&center=true&vCenter=true&width=1000&lines=puts+%22🔥+Rails+Master+%7C+Building+Scalable+Web+Architectures%22;print(%22🐍+Python+AI+Engineer+%7C+Training+Tomorrow's+Intelligence%22);console.log('⚡+JavaScript+Wizard+%7C+Bringing+Ideas+to+Life');console.log('🚀+Node.js+Architect+%7C+Powering+Backend+Innovation');console.log('⚛️+React+Virtuoso+%7C+Crafting+Dynamic+User+Experiences');console.log('🌐+Next.js+Pioneer+%7C+Full-Stack+Future+Builder');fmt.Println(%22⚙️+Go+Developer+%7C+Concurrent+%26+Efficient+Systems%22);AI.output('🧠+AI+Whisperer+%7C+Merging+Human+%26+Machine+Intelligence')" alt="Multi-Language Greeting" />
 </p>
-
-<div align="center">
-
-### 🌐 Welcome to My Digital Consciousness
-
-I'm **Zeeshan Ahmed Sarwar** — a **Senior AI Software Engineer** who lives at the intersection of cutting-edge technology and artificial intelligence. My passion lies in crafting **intelligent systems** that don't just process data, but **understand, learn, and evolve**.
-
-```mermaid
-graph LR
-    A[🧠 Human Creativity] --> B[🤖 AI Amplification]
-    B --> C[⚡ Exponential Innovation]
-    C --> D[🚀 Future Applications]
-    D --> A
-
-    style A fill:#ff00ff,stroke:#fff,stroke-width:2px,color:#fff
-    style B fill:#00f5ff,stroke:#fff,stroke-width:2px,color:#000
-    style C fill:#ff6b6b,stroke:#fff,stroke-width:2px,color:#fff
-    style D fill:#4ecdc4,stroke:#fff,stroke-width:2px,color:#000
-```
-
-</div>
-
-<div align="center">
-
-|       🎯 **Mission Critical**        |            🔬 **AI Obsession**             |        🌟 **Future Vision**        |
-| :----------------------------------: | :----------------------------------------: | :--------------------------------: |
-|  Building software that **thinks**   |  Integrating **LLMs** into every workflow  |  Creating **autonomous systems**   |
-| **React + AI** hybrid architectures  | **Model Context Protocol** implementations | **Neural-driven** user experiences |
-| **Full-stack** with **intelligence** |       **Machine Learning** pipelines       |     **AGI-ready** applications     |
-
-</div>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/🤖_AI_Enthusiast-ACTIVATED-FF6B6B?style=for-the-badge&logoColor=white"/>
-  <img src="https://img.shields.io/badge/🚀_Future_Builder-ONLINE-00F5FF?style=for-the-badge&logoColor=black"/>
-  <img src="https://img.shields.io/badge/⚡_Neural_Engineer-CONNECTED-FF00FF?style=for-the-badge&logoColor=white"/>
-</p>
-
-<div align="center">
-
-```yaml
-current_obsession:
-  - 'How can AI enhance every line of code I write?'
-  - 'What if applications could understand user intent without explicit commands?'
-  - 'Building the bridge between human creativity and machine intelligence'
-
-ai_integration_level: 'MAXIMUM_OVERDRIVE'
-neural_networks_in_sleep: true
-dreams_in_code: true
-```
-
-</div>
 
 ---
 
